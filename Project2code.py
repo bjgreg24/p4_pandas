@@ -34,8 +34,8 @@ dProductCategories = {
 # Ask user for input
 sChoice = input("If you want to import data, enter 1. If you want to see summaries of stored data, enter 2. Enter any other value to exit the program: ")
 
-# this is an extra step i included NOT originally described in the project requirements. When testing, if you created a username or database name 
-# other than postgres, it won't work. in addition, everyone's passwords are different. This is a way to get around that.
+# This is an extra step i included NOT originally described in the project requirements. When testing, if you created a username or database name 
+# Other than postgres, it won't work. in addition, everyone's passwords are different. This is a way to get around that.
 sDBUser = input("Enter your Postgres username: ")
 sDBPass = getpass.getpass("Enter your Postgres password: ")
 sDBName = input("Enter your Postgres database name: ")
