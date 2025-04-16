@@ -1,4 +1,6 @@
-# Ethan Carn
+# Group 11
+# Ethan Carn , Madison Diefenbach, Brinley Gregory
+# Luke Miller, Seth Mortensen, Sydney Trojahn
 # IS 303 - Retail Sales Pandas and Postgres Project
 # This script reads retail sales data from Excel, processes it, stores it in Postgres, and summarizes it based on category
 
